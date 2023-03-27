@@ -3,7 +3,7 @@ Program in C# that reads text files that are in a path that the user specifies o
 
 -----How to run-----
 
-Create a new objet in your main class like this (without ""):
+Create a new object in your main class like this (without ""):
 
 "LeerArchivos obj = new LeerArchivos();"
 
